@@ -1,4 +1,4 @@
-package ads1;
+package lecture1.ads1;
 
 public class ads2 {
 
